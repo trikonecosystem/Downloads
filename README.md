@@ -1,1 +1,1 @@
-"readme" 
+This repository contains all the downloadable links provided by TRIKON.
